@@ -59,7 +59,12 @@ Here are some ideas to get you started:
 </div>
 
 
+<div align="center">
 
-<div align=center>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&langs_count=10&layout=compact)]()
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=codeSTACKr)
+
+
 </div>
