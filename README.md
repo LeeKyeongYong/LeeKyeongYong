@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=KyeongYongLee&fontSize=90)
   
