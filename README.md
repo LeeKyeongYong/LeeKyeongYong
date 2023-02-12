@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 ### <p align="center"> <font size="+5"> Hi 👋,  I'm Lee, Kyeong Yong </p>
 <p align="center"><font size="+2">Interested in Back-End development</p>
 <br/>
-<br/>
-<br/>
-
   
 ### <p align="center"> 💻 Languages and tool  </p>
 
