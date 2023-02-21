@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devleeky86)](https://solved.ac/devleeky86/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sleekydz86)](https://solved.ac/sleekydz86/) 
   
 </div>
 
