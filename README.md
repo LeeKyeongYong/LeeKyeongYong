@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&langs_count=10&layout=compact)]()
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=codeSTACKr)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/LeeKyeongYong/github-readme-stats)
+  
 
 
 </div>
