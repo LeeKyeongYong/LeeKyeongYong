@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&langs_count=10&layout=compact)]()
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/LeeKyeongYong/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/LeeKyeongYong/github-readme-stats)
   
 
 
