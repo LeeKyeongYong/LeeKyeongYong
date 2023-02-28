@@ -42,16 +42,6 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
                    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
                    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp 
-                   
-                   <!--
-                    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-                   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-                   <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
-                  -->
 </p>
 
 <div align="center">
