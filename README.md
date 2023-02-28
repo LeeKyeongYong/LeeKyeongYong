@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKyeongYong)](https://hits.seeyoufarm.com) 
 
 </div>
-<div align="center"></div>
-# 🏆GitHub Trophies <br/>
-![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <br/>
 <div align="center">
@@ -61,8 +59,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeeKyeongYong&theme=dark&hide_border=false)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)<br/>
+ <br/>
+  # 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
