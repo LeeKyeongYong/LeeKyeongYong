@@ -46,15 +46,17 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
 </p>
 
-<div align=center>
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKyeongYong)](https://hits.seeyoufarm.com) 
 
 </div>
-
+<div align="center">
+  https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4
+</div>
 <div align="center">
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeeKyeongYong&theme=dark&hide_border=false)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
