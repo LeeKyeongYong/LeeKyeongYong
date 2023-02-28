@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKyeongYong)](https://hits.seeyoufarm.com) 
 
 </div>
-<div align="center">
+<div align="center"></div>
  # 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Terrorboy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeeKyeongYong&theme=dark&hide_border=false)<br/>
