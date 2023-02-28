@@ -28,22 +28,30 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/kotlin-00599C?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+                  <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+                  -->
 </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+<p align="center"> 
+                   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
                    <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Oracle-CC2927?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+                   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
+                   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
+                   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp 
+                   
+                   <!--
+                    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+                   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
                    <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
+                  -->
 </p>
 
 <div align="center">
