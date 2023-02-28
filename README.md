@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 </div>
 <div align="center">
-  https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4
+ # 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Terrorboy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 <div align="center">
 
