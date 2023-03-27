@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### <p align="center"> <font size="+5"> Hi 👋,  I'm Lee, Kyeong Yong </p>
 <p align="center"><font size="+2">Interested in Back-End development</p>
- <p align="center"> <font size="+3"> ウサギよりは亀のように地道に</p>
+<p align="center"> <font size="+3"> ウサギよりは亀のように地道に</p>
+<p align="center"> <font size="+3"> Steady like a tortoise rather than a hare</p>
 <br/>
   
 ### <p align="center"> 💻 Languages and tool  </p>
