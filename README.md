@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/><br/>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devkylee) <br/><br/>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redscript86) <br/><br/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)<br/>
 </div>
