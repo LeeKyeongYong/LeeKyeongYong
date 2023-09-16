@@ -64,8 +64,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeeKyeongYong&theme=dark&hide_border=false)](https://git.io/streak-stats)
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=graywhite)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongYong&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)<br/>
@@ -74,9 +73,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/><br/>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redscript86) <br/><br/>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)<br/>
-</div>
 
 <br>
 <div align="center">
