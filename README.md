@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
  
 <h3 align="center">📚 Tech Stack 📚</h3>
-<div align="center">Backend</div>
+<div align="center"></div>
 <p align="center"> 
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/kotlin-00599C?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
-<div align="center"> Frontend</div>
+<div align="center"></div>
 <p align="center"> 
    <img src="https://img.shields.io/badge/Typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/ReactJS-E0234E?style=flat-square&logo=ReactJS&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/NextJs-009639?style=flat-square&logo=NextJs&logoColor=white" />&nbsp
 </p>
-<div align="center">Database</div>
+<div align="center"></div>
 <p align="center"> 
    <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Redis-E0234E?style=flat-square&logo=Redis&logoColor=white" />&nbsp 
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /></a>&nbsp
 </p>
-<div align="center">Cloud Services</div>
+<div align="center"></div>
 <p align="center"> 
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp 
    <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-232F3E?style=flat-square&logo=navercloudplatform&logoColor=white"/>&nbsp 
 </p>
-<div align="center">Server Tools</div>
+<div align="center"></div>
 <p align="center"> 
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp 
    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />&nbsp 
