@@ -30,43 +30,47 @@ Here are some ideas to get you started:
 <p align="center"> <font size="+3"> Steady like a tortoise rather than a hare</p>
 <br/>
  
-###  <h3 align="center">📚 Tech Stack 📚</h3>
-<!--
-<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/kotlin-00599C?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-</p>
--->
-
+<h3 align="center">📚 Tech Stack 📚</h3>
+<div align="center">Backend</div>
 <p align="center"> 
-                   <img src="https://img.shields.io/badge/ApacheKafka-%23323330.svg?style=for-the-badge&logo=ApacheKafka&logoColor=%23F7DF1E"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/kotlin-00599C?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-                   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp<br/>
-                   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a><br/>
-                   <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Oracle-CC2927?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-                   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a><br/>
-                   <img src="https://img.shields.io/badge/Typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
-                   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
-                   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /></a>&nbsp 
-                   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp <br/>
-                   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp 
-                   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp 
-                   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />&nbsp 
-                   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />&nbsp<br/>
-                   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />&nbsp 
-                   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp 
-                   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp 
-                   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp <br/>
-                   <img src="https://img.shields.io/badge/NextJs-009639?style=flat-square&logo=NextJs&logoColor=white" />&nbsp
-                    <img src="https://img.shields.io/badge/jenkins-E0234E?style=flat-square&logo=jenkins&logoColor=white" />&nbsp
-                    <img src="https://img.shields.io/badge/ReactJS-E0234E?style=flat-square&logo=ReactJS&logoColor=white" />&nbsp
-                    <img src="https://img.shields.io/badge/Redis-E0234E?style=flat-square&logo=Redis&logoColor=white" />&nbsp 
-                   <img src="https://img.shields.io/badge/Kubernetes-009639?style=flat-square&logo=Kubernetes&logoColor=white" />&nbsp <br/> 
+   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/kotlin-00599C?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />&nbsp 
+   <img src="https://img.shields.io/badge/ApacheKafka-%23323330.svg?style=for-the-badge&logo=ApacheKafka&logoColor=%23F7DF1E"/></a>&nbsp<br/>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+</p>
+<div align="center"> Frontend</div>
+<p align="center"> 
+   <img src="https://img.shields.io/badge/Typescript-00599C?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
+   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp <br/>
+   <img src="https://img.shields.io/badge/ReactJS-E0234E?style=flat-square&logo=ReactJS&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/NextJs-009639?style=flat-square&logo=NextJs&logoColor=white" />&nbsp
+</p>
+<div align="center">Database</div>
+<p align="center"> 
+   <img src="https://img.shields.io/badge/MariaDB-232F3E?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Oracle-CC2927?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Redis-E0234E?style=flat-square&logo=Redis&logoColor=white" />&nbsp 
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" /></a>&nbsp
+</p>
+<div align="center">Cloud Services</div>
+<p align="center"> 
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp 
+   <img src="https://img.shields.io/badge/NAVER CLOUD PLATFORM-232F3E?style=flat-square&logo=navercloudplatform&logoColor=white"/>&nbsp 
+</p>
+<div align="center">Server Tools</div>
+<p align="center"> 
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp 
+   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />&nbsp 
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />&nbsp<br/>
+   <img src="https://img.shields.io/badge/jenkins-E0234E?style=flat-square&logo=jenkins&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Kubernetes-009639?style=flat-square&logo=Kubernetes&logoColor=white" />&nbsp 
 </p>
 <h3 align="center">⚙ Available Tools ⚙</h3>
 <p align="center"> 
@@ -75,7 +79,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Jira-BF0000?style=for-the-badge&logo=Jira&logoColor=white">   
-</p>  
+</p>
 
 <div align="center">
 
