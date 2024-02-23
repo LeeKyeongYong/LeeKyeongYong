@@ -96,11 +96,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&theme=graywhite)
 <br/>
 <img style="max-width: 450px" align="center" src="https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="LeeKyeongYong's github stats"/>
- <br/>
+<!-- <br/>
+ 
   # 🏆GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=LeeKyeongYong&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/><br/>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redscript86) <br/><br/>
+-->
 </div>
 <br/>
 <div align="center">
