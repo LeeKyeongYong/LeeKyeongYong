@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
  ![](https://raw.githubusercontent.com/DIYgod/DIYgod/main/assets/github-contribution-grid-snake.svg)
 <br/>
+-->
+
+# 같이의 가치를 믿는 백엔드 개발자 이경입니다.
+
+사람들과 소통하는 것을 좋아하고, 소통하며 경험한 것을 회고하며 성장합니다.
+
+[![blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=gatsby&logoColor=white)]([[https://velog.io/@haron](https://blog.naver.com/sleekydz86)](https://blog.naver.com/sleekydz86))
+[![portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readme&logoColor=white)](https://notion.site)
 
 ### <p align="center"> <font size="+5"> Hi 👋,  I'm Lee, Kyeong Yong </p>
 <p align="center"><font size="+2">Interested in Back-End development</p>
