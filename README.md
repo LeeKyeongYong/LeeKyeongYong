@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 사람들과 소통하는 것을 좋아하고, 소통하며 경험한 것을 회고하며 성장합니다.
 
 [![blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=gatsby&logoColor=white)](https://blog.naver.com/sleekydz86)
-[![portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readme&logoColor=white)](https://notion.site)
+[![portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readme&logoColor=white)](https://www.naver.com)
 
 ### <p align="center"> <font size="+5"> Hi 👋,  I'm Lee, Kyeong Yong </p>
 <p align="center"><font size="+2">Interested in Back-End development</p>
